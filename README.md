@@ -6,4 +6,5 @@ WinDeployQtShell is a shell for Qt deploy tool (windeployqt.exe).
 - select a component (they are automatically detected from the Qt folder)
 - configure the necessary settings
 - push on the "Run" button
+### Screenshot
 ![](WinDeployQtShell.png)
